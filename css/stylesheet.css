@@ -1,0 +1,53 @@
+body { 
+	#font-family: Helvetica, sans-serif;
+	font-family: Baskerville, serif;
+	padding: 30px 30px;
+	}
+
+h1,h2,h3,h4 {
+	line-height: 75%;
+	}
+h1 {
+	text-align: center;
+	font-weight: normal;
+	}
+	
+a {
+	text-decoration: none;
+	color: #333333;
+	}
+	
+.header img {
+	float: right;
+	clear: both;
+	margin: 0px;
+	}
+	
+.section_title {
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	float: left;
+	text-align: right;
+	clear: both;
+	width: 10%;
+	padding: 0px  0px;
+	}
+
+/* .section {
+//	width: 90%;
+	} */
+.section div {
+	padding:2px 0px 0px 34px;
+	overflow: hidden;
+	}
+	
+.skill_title {
+	font-weight: bold;
+	height:100%
+	}
+
+.dates {
+	text-align: right;
+	float: right;
+	clear: both;
+	}
